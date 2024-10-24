@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://joxemupi.github.io/sitemap/sitemap_index.joxemupi
+Sitemap: https://joxemupi.github.io/Xwy/sitemap_index.joxemupi
+Sitemap: https://joxemupi.github.io/ESZ/sitemap_index.joxemupi
+Sitemap: https://joxemupi.github.io/UCx/sitemap_index.joxemupi
+Sitemap: https://joxemupi.github.io/Vcp/sitemap_index.joxemupi
+Sitemap: https://joxemupi.github.io/hSk/sitemap_index.joxemupi
+Sitemap: https://joxemupi.github.io/fbt/sitemap_index.joxemupi
+Sitemap: https://joxemupi.github.io/Cbm/sitemap_index.joxemupi
+Sitemap: https://joxemupi.github.io/yvK/sitemap_index.joxemupi
+Sitemap: https://joxemupi.github.io/yBd/sitemap_index.joxemupi
+Sitemap: https://joxemupi.github.io/DfR/sitemap_index.joxemupi
+Sitemap: https://joxemupi.github.io/Cfy/sitemap_index.joxemupi
+Sitemap: https://joxemupi.github.io/Eyx/sitemap_index.joxemupi
+Sitemap: https://joxemupi.github.io/drP/sitemap_index.joxemupi
+Sitemap: https://joxemupi.github.io/gZN/sitemap_index.joxemupi
+Sitemap: https://joxemupi.github.io/DwJ/sitemap_index.joxemupi
+Sitemap: https://joxemupi.github.io/TFv/sitemap_index.joxemupi
+Sitemap: https://joxemupi.github.io/dJj/sitemap_index.joxemupi
+Sitemap: https://joxemupi.github.io/laX/sitemap_index.joxemupi
+Sitemap: https://joxemupi.github.io/Gag/sitemap_index.joxemupi
+Sitemap: https://joxemupi.github.io/UBE/sitemap_index.joxemupi
